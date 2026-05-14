@@ -8,10 +8,12 @@ To write a program to implement the the Logistic Regression Model to Predict the
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
+```
 1. Load the dataset, preprocess the data, and define the feature variables (X) and target variable (y).
 2.Split the dataset into training and testing sets and apply feature scaling using StandardScaler.
 3.Train the Logistic Regression model using the training data and make predictions on the test data.
 4.Evaluate the model using confusion matrix, accuracy score, and classification report, and predict the placement status for new student data.
+```
 
 ## Program:
 ```
